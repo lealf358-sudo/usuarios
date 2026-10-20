@@ -243,3 +243,4 @@ Os endpoints foram testados utilizando o Postman, verificando tanto respostas de
 ## Conclusão
 
 O projeto permitiu colocar em prática os principais conceitos de uma API REST utilizando PHP e Slim Framework, incluindo criação de rotas, utilização de parâmetros, recebimento de dados em JSON, códigos de status HTTP, cadastro e gerenciamento de usuários e autenticação.
+# usuario_api
